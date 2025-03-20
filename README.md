@@ -1,6 +1,7 @@
 ## Hi there 👋
--🔭 I’m currently working on tsinghua university
- -🌱 I’m currently learning trapped ions
+🔭 I’m currently working on tsinghua university
+
+ 🌱 I’m currently learning trapped ions
 <!--
 **NiuZiDD/NiuZiDD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
